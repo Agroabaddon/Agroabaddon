@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Agroabaddon
-- 👀 I’m interested in farming, earning, and staking new crypto currency
+- 👀 I’m interested in 
 - 🌱 I’m currently learning sh and bash
-- 💞️ I’m looking to collaborate on crypto mining scripts 
+- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me agroabaddon@gmail.com
 
 <!---
